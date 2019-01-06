@@ -31,4 +31,4 @@ The jupyter notebooks contain necessary steps for tokenizing the wiki docs, crea
 
 #### Use
 
-To use the jupyter notebooks the directories have to be changed.
+To use the jupyter notebooks the directories have to be changed to local ones.
