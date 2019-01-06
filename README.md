@@ -1,5 +1,5 @@
 # word_embedding_WS19
-Seminar "word embedding" in winter semester 2019 at Julius Maximilians University Würburg
+Seminar "word embedding" in winter semester 2019 at Julius Maximilians University Würzburg
 
 
 The folder "command line scripts" contains a python script for tokenizing the wiki docs created by WikiExtractor (https://github.com/attardi/wikiextractor/blob/master/WikiExtractor.py) and a python script that creates a co-occurrence matrix, 
