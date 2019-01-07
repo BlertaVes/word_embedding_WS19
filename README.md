@@ -27,6 +27,8 @@ The frequency_dist_counter argument as well as tokenized_docs_dir argument are t
 
 ### Jupyter Notebooks
 
+#### Description
+
 The jupyter notebooks contain necessary steps for tokenizing the wiki docs, creating a co-occurrence matrix, converting the co-occurrence matrix to tfidf matrix and computing the cosine similarity between word vectors in the matrix. 
 
 #### Use
